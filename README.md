@@ -40,3 +40,18 @@ Learned the fundamentals of ETL:
 **Extract → Transform → Load**
 
 Connected basic Python transformations to the transformation stage of a real-world ETL pipeline.
+
+
+### Day 2 — Python Functions
+
+- Learned how to define functions using `def`
+- Learned how to call functions
+- Learned parameters and arguments
+- Learned how `return` sends a result back from a function
+- Practiced using loops and conditions inside functions
+- Built functions to calculate totals
+- Built a function to calculate the total of high-value sales
+
+### Data Engineering Connection
+
+Practiced building reusable data-processing functions using loops, conditions, and accumulation. These concepts form the foundation for writing reusable transformation logic in data pipelines.
