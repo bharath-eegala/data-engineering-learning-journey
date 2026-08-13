@@ -55,3 +55,62 @@ Connected basic Python transformations to the transformation stage of a real-wor
 ### Data Engineering Connection
 
 Practiced building reusable data-processing functions using loops, conditions, and accumulation. These concepts form the foundation for writing reusable transformation logic in data pipelines.
+
+
+
+Day 4 — Dictionaries, SQL & Airflow
+
+Python
+
+Dictionary iteration
+Accessing keys and values
+Modifying dictionaries
+Adding new key-value pairs
+Lists of dictionaries
+Filtering records using conditions
+
+SQL
+
+Finding duplicates using GROUP BY + HAVING
+Identifying actual duplicate records using ROW_NUMBER()
+Understanding duplicate groups vs duplicate records
+
+Airflow / Data Engineering
+
+What Airflow does
+DAGs
+Task dependencies
+Retries
+Backfills
+
+Power BI
+
+Calculated columns vs measures
+Filter context
+Dynamic DAX measures
+
+
+Day 5 — Data Processing & Deduplication
+
+Python
+
+Functions with lists
+Accumulator patterns
+Counting matching records
+Collecting matching values using .append()
+return inside vs outside loops
+Processing nested dictionary/list data
+Understanding when to return one result vs all results
+
+SQL
+
+Deduplication using ROW_NUMBER()
+Keeping the latest record using ORDER BY ... DESC
+Keeping the oldest record using ORDER BY ... ASC
+
+GenAI Preparation
+
+JSON-style data structures
+Nested lists/dictionaries
+Extracting fields from structured data
+Connecting Python data handling to future API/GenAI work
